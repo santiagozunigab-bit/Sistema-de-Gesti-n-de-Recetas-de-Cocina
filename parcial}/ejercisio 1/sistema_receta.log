@@ -1,0 +1,22 @@
+2026-10-29 12:33:00 - [INFO] - Receta registrada con éxito: 'Pancakes'.
+2026-10-29 12:33:00 - [INFO] - Receta registrada con éxito: 'Café Filtrado'.
+2026-10-29 12:33:01 - [ERROR] - Error al registrar 'Té': Capacidad máxima del sistema alcanzada (2).
+2026-10-29 12:33:01 - [INFO] - Consulta de lista general de recetas realizada.
+2026-10-29 12:33:01 - [INFO] - Consulta realizada con éxito para la receta: 'Pancakes'.
+2026-10-29 12:33:01 - [WARNING] - Búsqueda fallida: No existe la receta 'Pizza'.
+2026-10-29 12:33:01 - [INFO] - Consulta realizada con éxito para la receta: 'Pancakes'.
+2026-10-29 12:33:01 - [INFO] - Receta 'Pancakes' actualizada correctamente.
+2026-10-29 12:33:01 - [INFO] - Consulta realizada con éxito para la receta: 'Pancakes'.
+2026-10-29 12:33:01 - [ERROR] - Error al actualizar 'Pancakes': Las porciones deben ser mayores a 0.
+2026-10-29 12:33:01 - [INFO] - Consulta realizada con éxito para la receta: 'Pancakes'.
+2026-10-29 12:33:14 - [INFO] - Receta registrada con éxito: 'Pancakes'.
+2026-10-29 12:33:14 - [INFO] - Receta registrada con éxito: 'Café Filtrado'.
+2026-10-29 12:33:14 - [ERROR] - Error al registrar 'Té': Capacidad máxima del sistema alcanzada (2).
+2026-10-29 12:33:14 - [INFO] - Consulta de lista general de recetas realizada.
+2026-10-29 12:33:14 - [INFO] - Consulta realizada con éxito para la receta: 'Pancakes'.
+2026-10-29 12:33:14 - [WARNING] - Búsqueda fallida: No existe la receta 'Pizza'.
+2026-10-29 12:33:14 - [INFO] - Consulta realizada con éxito para la receta: 'Pancakes'.
+2026-10-29 12:33:14 - [INFO] - Receta 'Pancakes' actualizada correctamente.
+2026-10-29 12:33:14 - [INFO] - Consulta realizada con éxito para la receta: 'Pancakes'.
+2026-10-29 12:33:14 - [ERROR] - Error al actualizar 'Pancakes': Las porciones deben ser mayores a 0.
+2026-10-29 12:33:14 - [INFO] - Consulta realizada con éxito para la receta: 'Pancakes'.
